@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "image": {
+                "desktop": "/images/aiml.jpg",
+                "mobile": "/images/aiml.jpg"
+            },
+            "title": "Innovate with Intelligence:<br/>AI/ML Expertise",
+            "text": "Elevate your projects with our AI/ML expertise, pioneering innovation through intelligent solutions.",
+            "button": {
+                "label": "Learn More",
+                "link": "/about"
+            }
+        },
+        {
+            "video": "/video/video-digital1.mp4",
+            "title": "Technology &amp; Mobile <br />App Development",
+            "text": "We build readymade websites, mobile apps <br>and elaborate online business services.",
+            "button": {
+                "label": "View Projects",
+                "link": "/projects"
+            }
+        },
+        {
+            "image": {
+                "desktop": "/images/cyber.jpg",
+                "mobile": "/images/cyber.jpg"
+            },
+            "title": "Guardians of Digital Fortresses: <br/>Cyber Security Solutions",
+            "text": "Securing digital frontiers with cutting-edge strategies, our Cyber Security Solutions act as guardians, offering resilient protection against evolving threats.",
+            "button": {
+                "label": "Our Services",
+                "link": "/services"
+            }
+        }
+    ]
+}

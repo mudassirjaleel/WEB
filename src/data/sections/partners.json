@@ -1,0 +1,46 @@
+{
+    "subtitle": "Fantastic and Premium Clients",
+    "title": "We Have Had the Pleasure of <br/>Working with Some Clients",
+    "items": [
+        {
+            "link": "http://qreks.com/",
+            "label": "Visit Website",
+            "image": "/images/partners/1.png"
+        },
+        {
+            "link": "https://vroomonline.fr/",
+            "label": "Visit Website",
+            "image": "/images/partners/2.png"
+        },
+        {
+            "link": "https://toplinervandmarine.com/",
+            "label": "Visit Website",
+            "image": "/images/partners/3.png"
+        },
+        {
+            "link": "https://www.zahid-travel.com/",
+            "label": "Visit Website",
+            "image": "/images/partners/4.png"
+        },
+        {
+            "link": "https://1man1movers.com/",
+            "label": "Visit Website",
+            "image": "/images/partners/5.png"
+        },
+        {
+            "link": "https://localgrillmasters.com/",
+            "label": "Visit Website",
+            "image": "/images/partners/6.png"
+        },
+        {
+            "link": "https://crockettandco.com/",
+            "label": "Visit Website",
+            "image": "/images/partners/7.png"
+        },
+        {
+            "link": "https://talixo.com/",
+            "label": "Visit Website",
+            "image": "/images/partners/8.png"
+        }
+    ]
+}

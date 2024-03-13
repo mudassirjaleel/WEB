@@ -1,0 +1,84 @@
+{
+    "subtitle": "Welcome to DH Solutions",
+    "title": "We're Transforming <br />Ideas into Innovation",
+    "text": "DH Solutions, established in <strong> 2020</strong>, is a dynamic IT company committed to excellence and innovation. Our skilled team delivers tailored technological solutions, <strong> focusing on Cyber Security and AI/ML.</strong> We are dedicated to fortifying digital realms and driving transformative outcomes, leading the way in cutting-edge advancements.",
+    "signature": {
+        "image": "/images/signature.png",
+        "alt": "signature"
+    },
+    "items": [
+        {
+            "icon": "/images/cyber-icon.png",
+            "title": "Cyber Security",
+            "list": [
+                "Network Security Assessment",
+                "Endpoint Protection",
+                "Incident Management",
+                "Security Awareness Training",
+                "Vulnerability Management"
+            ],
+            "link": "/services/service-1"
+        },
+        {
+            "icon": "/images/aiml-icon.png",
+            "title": "AI/ML",
+            "list": [
+                "Algorithmic Innovation",
+                "Predictive Analytics",
+                "Natural Language Processing",
+                "Computer Vision Solutions",
+                "Machine Learning Consulting"
+            ],
+            "link": "/services/service-2"
+        },
+        {
+            "icon": "/images/web-icon.png",
+            "title": "Web Development",
+            "list": [
+                "Custom Web Development",
+                "E-commerce Solutions",
+                "Responsive Web Design",
+                "CMS Development",
+                "Web Application Development"
+            ],
+            "link": "/services/service-3"
+        },
+        {
+            "icon": "/images/app-icon.png",
+            "title": "App Development",
+            "list": [
+                "iOS App Development",
+                "Android App Development",
+                "Cross-Platform Mobile Apps",
+                "UI/UX Design for Mobile Apps",
+                "Mobile App Maintenance"
+            ],
+            "link": "/services/service-4"
+        },
+        {
+            "icon": "/images/staff-icon.png",
+            "title": "Augmentation",
+            "list": [
+                "Skilled Augmentation",
+                "IT Resource Provisioning",
+                "Project Staffing",
+                "Flexible Team Scaling",
+                "Talent Acquisition"
+            ],
+            "link": "/services/service-5"
+        },
+       
+        {
+            "icon": "/images/marketing-icon.png",
+            "title": "Digital Marketing",
+            "list": [
+                "SEO Services",
+                "Social Media Marketing",
+                "PPC Advertising",
+                "Content Marketing",
+                "Email Campaigns"
+            ],
+            "link": "/services/service-6"
+        }
+    ]
+}

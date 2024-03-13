@@ -1,0 +1,24 @@
+{
+    "title": "Send Us Your <br/><strong>Bright Ideas</strong>",
+    "subtitle": "Get in Touch",
+    "text": "<a href=\"mailto:hello@digitalhouse.com.pk\" target=\"_blank\">hello@digitalhouse.com.pk</a><p>1309 Coffeen Avenue STE 13600, <br />Sheridan Wyoming 82801.</p>",
+    "bg_image": "/images/cta-bg-1.jpg",
+    "bg_image2": "/images/cta-circle2.png",
+    "social": [
+        {
+            "link": "https://www.facebook.com/dhsolutions.official",
+            "icon": "fab fa-facebook-f",
+            "title": "Facebook"
+        },
+        {
+            "link": "https://www.instagram.com/dhsolutions.official/",
+            "icon": "fab fa-instagram",
+            "title": "Instagram"
+        },
+        {
+            "link": "https://www.linkedin.com/company/digital-house-solutions-pakistan",
+            "icon": "fab fa-linkedin-in",
+            "title": "LinkedIn"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "subtitle": "Our History",
+    "title": "Brands Through Innovation in <br>Digital Transformation.",
+    "button": {
+        "label": "Learn More",
+        "link": "/about"
+    },
+    "items": [
+        {
+            "image": "/images/idea.jpg",
+            "title": "DH Inception",
+            "subtitle": "2020",
+            "text": "DH Solutions was established in 2020 as a dynamic IT company, laying the foundation for innovation and excellence."
+        },
+        {
+            "image": "/images/growth.jpg",
+            "subtitle": "2021",
+            "title": "Year of Growth",
+            "text": " DH Solutions experienced significant growth in 2021, broadening our expertise and client base."
+        },
+        {
+            "image": "/images/advancements.jpg",
+            "subtitle": "2022",
+            "title": "Cutting-edge Advancements",
+            "text": "In 2022, DH Solutions continued to lead in cutting-edge advancements, staying at the forefront of technology."
+        },
+        {
+            "image": "/images/Innovations.jpg",
+            "subtitle": "2023",
+            "title": "Innovations Unleashed",
+            "text": "The year 2023 marked DH Solutions' commitment to unleashed innovations, delivering groundbreaking solutions to our clients."
+        },
+        {
+            "image": "/images/excellence.jpg",
+            "subtitle": "Present",
+            "title": "Pioneering Excellence",
+            "text": "DH Solutions stands in the present as a pioneer in technology, ensuring clients step confidently into a future shaped by excellence and innovation."
+        }
+    ]
+}
